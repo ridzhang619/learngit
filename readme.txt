@@ -5,3 +5,4 @@ apl
 23:19
 splash
 msn
+test git checkout --
